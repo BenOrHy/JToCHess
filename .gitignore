@@ -1,0 +1,20 @@
+# Unity 빌드 캐시 및 시스템 폴더 무시
+[Ll]ibrary/
+[Tt]emp/
+[Bb]uild/
+[Bb]uilds/
+MemoryCaptures/
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.exe
+*.apk
+*.dll
+*.db
+*.opendb
+
+# OS 파일 무시
+.DS_Store
+Thumbs.db
